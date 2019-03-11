@@ -1,5 +1,5 @@
 .idea/*
-*/run_git.bat
+.src/*
 run_git.bat
 *.log
 readme.txt
